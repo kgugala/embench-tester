@@ -1,0 +1,27 @@
+Relative results
+****************
+==================================  ==========
+..                                    vexriscv
+==================================  ==========
+aha-mont64                                0.73
+crc32                                     0.74
+cubic                                     0.47
+edn                                       0.86
+huffbench                                 1.02
+matmult-int                               0.81
+minver                                    0.46
+nbody                                     0.52
+nettle-aes                                0.58
+nettle-sha256                             0.51
+nsichneu                                  0.31
+picojpeg                                   0.7
+qrduino                                   1.08
+sglib-combined                            0.89
+slre                                      0.99
+st                                        0.54
+statemate                                 0.82
+ud                                        0.54
+wikisort                                  0.99
+speed geometric mean                      0.68
+speed geometric standard deviation        1.39
+==================================  ==========

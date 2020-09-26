@@ -1,0 +1,27 @@
+Absolute results
+****************
+==================================  ==========
+..                                    vexriscv
+==================================  ==========
+aha-mont64                                5470
+crc32                                     5403
+cubic                                     8304
+edn                                       4645
+huffbench                                 4047
+matmult-int                               4942
+minver                                    8695
+nbody                                     5433
+nettle-aes                                6940
+nettle-sha256                             7812
+nsichneu                                 13018
+picojpeg                                  5772
+qrduino                                   3952
+sglib-combined                            4448
+slre                                      4039
+st                                        7487
+statemate                                 4875
+ud                                        7378
+wikisort                                  2800
+speed geometric mean                      5706
+speed geometric standard deviation        1.42
+==================================  ==========
